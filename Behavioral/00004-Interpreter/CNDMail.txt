@@ -1,0 +1,109 @@
+Dear CND Team, 
+
+I'm Ahmed S. Lilah.
+I'm reaching out to communicate my displeasure/disappointment with the program so far.
+
+Brief about me:
+        * Analog IC Design/Electronic Circuit Design TA at Zewail City Nanoelectronics Engineering Program.
+        * Former Circuit Simulation Product Engineer at Siemens.
+        * Former Analog IC Design TA at ITI.
+        * Former Analog Mixed-Signal Modeling and Simulation at Siemens.
+        * Former Analog Systems Design Intern At Siemens.
+        * Former Analog Mixed-Signal Modeling and Simulation Intern At Siemens.
+        * Former Analog IC Design Intern at ITI.
+        * Bachelor in Electronics & Electrical Communication and Computer Engineering.
+
+I'll try to lay out my case as best as I can, especially from the Analog IC Design Side.
+
+Pros:
+        * Great Instructors/Lecturers.
+        * Good Access to EDA Tools.
+
+Cons:
+        * So far the content of the program was so elementary and may be considered an introduction at best.
+                * It lacks depth and most of the topics were skimmed over.
+        * Some of the TAs were not prepared well for the labs.
+        * Some of the TAs seem to lack the technical Knowledge in the courses they teach.
+                * Sometimes they didn't practice the lab or set unachievable specs.
+        * poorly designed lab experiments to the point of time being impossible or poorly communicated.
+                * It was a common occurrence to have conflicting data in the lab document or that students were given circuit topologies that would never meet the functionality
+                  required from them.
+
+Looking at the contents of the advanced modules: 
+        * The advanced Analog IC Desing module is lacking i.e. no mention of common analog IC design topics such as:
+                * MOSFET large signal model.
+                * MOSFET small signal model.
+                * Small Channel effects (CLM, DIBL).
+                * Gm Rout Method.
+                * Single-stage CMOS amplifiers
+                * Cascode Amplifiers.
+                * Frequency Response
+                * Current Mirrors.
+                * Differential Amplifiers. 
+                * 5T-OTA.
+                * Gm/ID Design Methodology.
+                * FeedBack.
+                * Stability and Compensation.
+                * Common-Mode Feedback Amplifiers.
+                * Noise.
+                * OTA Topologies.
+                * Slew Rate and PSRR.
+                * Variability and Mismatch.
+                * Biasing and References.
+        * The advanced Analog Blocks module is terribly optimistic about covering all the topics in detail:
+                * Data Converters:
+                        * DACs.
+                        * ADCs.
+                * VCOs.
+                * PLLs.
+                * DC-DC Converters:
+                        * Linear Regulators.
+                        * Switched Regulators.
+                        * Charge Pump Regulator.
+                * Layout.
+        * The advanced RF IC Design module is optimistic about the following topics:
+                * Noise in RF Circuits.
+                * Matching in RF Circuits.
+                * LNAs.
+                * CG LNAs.
+                * Mixers.
+                * RX Architectures.
+                * TX Architectures.
+
+Looking from the perspective of the organization:
+        * How will students design a transistor-level RF or Advanced analog block if they don't know Analog IC Design in the first place?
+        * the logical flow of the advanced courses doesn't make sense to be all in parallel as the Advanced Analog Blocks and the RF IC Design both depend on the prior
+          knowledge in Analog IC Design.
+
+Suggestions:
+        * Current Iteration:
+                * allow those who wouldn't benefit from the program to opt out without the need to pay the 30k and preferably give them a certificate of recognition.
+                * focus on giving students real practical knowledge that at least will make them get closer to being started on track such as in the ITI and NTI.
+                * Refer them to external YouTube courses:
+                        * Analog IC Design (Dr.Hesham Omran).
+                        * Digital IC Design (Dr.Hesham Omran).
+                        * RF IC Design (Dr.Ahmed Nader).
+                        * Analog Systems Design ADCs/DACs (Dr.Hesham Omran).
+                * Labs should be intensive as it's supposed to be and intensive training. 
+                        * Refer to the labs that come with the previously mentioned courses.
+                        * There should be an extended at-home lab work spread throughout the week.
+        * Future Iterations:
+                * Avoid accepting non-ECE students (preferably even not earlier than 3rd and 4th year students).
+                * The Analog and Digital courses should start from the beginning.
+                * Ensure sufficiently knowledgeable TAs.
+                * Ensure the course content will be good enough to graduate proficient IC Designers.
+                * Refer students to external YouTube courses:
+                        * Analog IC Design (Dr.Hesham Omran).
+                        * Digital IC Design (Dr.Hesham Omran).
+                        * RF IC Design (Dr.Ahmed Nader).
+                        * Analog Systems Design ADCs/DACs (Dr.Hesham Omran).
+                * Labs should be two days not one to cover the courses.
+                * Labs should be intensive as it's supposed to be and intensive training. 
+                        * Refer to the labs that come with the previously mentioned courses.
+                        * There should be an extended at-home lab work spread throughout the week.
+
+Please accept my feedback on the program with carfull consideration.
+
+Best Regards,
+
+Ahmed S. Lilah
